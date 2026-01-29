@@ -1,0 +1,192 @@
+{
+  "season": "2026",
+  "pointsFormat": [3, 2, 1, 0],
+  "players": [
+    { "name": "Wes", "initials": "WE", "accent": "accent-ember" },
+    { "name": "Taylor", "initials": "TA", "accent": "accent-sea" },
+    { "name": "Bo", "initials": "BO", "accent": "accent-lime" },
+    { "name": "Spencer", "initials": "SP", "accent": "accent-rose" }
+  ],
+  "weeks": [
+    {
+      "week": "Week 1",
+      "date": "Jan 29",
+      "dateISO": "2026-01-28",
+      "course": "Farmers Insurance Open - Torrey Pines GC (South & North), San Diego, CA",
+      "game": "Stroke Play",
+      "gameOfWeek": false,
+      "highlight": "Opening night points posted.",
+      "results": {
+        "Wes": { "points": 3, "score": "+1" },
+        "Taylor": { "points": 2, "score": "+3" },
+        "Bo": { "points": 1, "score": "+7" },
+        "Spencer": { "points": 0, "score": "+12" }
+      }
+    },
+    {
+      "week": "Week 2",
+      "date": "Feb 4",
+      "dateISO": "2026-02-04",
+      "course": "WM Phoenix Open - TPC Scottsdale (Stadium), Scottsdale, AZ",
+      "game": "Scramble",
+      "gameOfWeek": false,
+      "highlight": "Weekly showdown on Wednesday.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 3",
+      "date": "Feb 11",
+      "dateISO": "2026-02-11",
+      "course": "AT&T Pebble Beach Pro-Am - Pebble Beach GL (Spyglass Hill & Monterey Peninsula CC), CA",
+      "game": "Match Play (Bracket)",
+      "gameOfWeek": false,
+      "highlight": "Bracket week - win and advance.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 4",
+      "date": "Feb 18",
+      "dateISO": "2026-02-18",
+      "course": "The Genesis Invitational - Riviera CC, Pacific Palisades, CA",
+      "game": "Alternate Shot",
+      "gameOfWeek": false,
+      "highlight": "Team chemistry week.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 5",
+      "date": "Feb 25",
+      "dateISO": "2026-02-25",
+      "course": "Cognizant Classic - PGA National Resort, Palm Beach Gardens, FL",
+      "game": "Best Ball",
+      "gameOfWeek": false,
+      "highlight": "Low scores win it.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 6",
+      "date": "Mar 4",
+      "dateISO": "2026-03-04",
+      "course": "Arnold Palmer Invitational - Bay Hill Club & Lodge, Orlando, FL",
+      "game": "Wolf",
+      "gameOfWeek": false,
+      "highlight": "Risk-reward format.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 7",
+      "date": "Mar 11",
+      "dateISO": "2026-03-11",
+      "course": "The Players Championship - TPC Sawgrass (Stadium), Ponte Vedra Beach, FL",
+      "game": "Stableford",
+      "gameOfWeek": false,
+      "highlight": "Points-on-points format.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 8",
+      "date": "Mar 18",
+      "dateISO": "2026-03-18",
+      "course": "Valspar Championship - Innisbrook Resort (Copperhead), Palm Harbor, FL",
+      "game": "Skins",
+      "gameOfWeek": false,
+      "highlight": "Every hole is worth a fight.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 9",
+      "date": "Mar 25",
+      "dateISO": "2026-03-25",
+      "course": "Texas Children's Houston Open - Memorial Park GC, Houston, TX",
+      "game": "Vegas",
+      "gameOfWeek": false,
+      "highlight": "High-variance swing week.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 10",
+      "date": "Apr 1",
+      "dateISO": "2026-04-01",
+      "course": "Valero Texas Open - TPC San Antonio (Oaks), San Antonio, TX",
+      "game": "Ryder Cup",
+      "gameOfWeek": false,
+      "highlight": "Team captains set the lineups.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 11",
+      "date": "Apr 8",
+      "dateISO": "2026-04-08",
+      "course": "Masters Tournament - Augusta National GC, Augusta, GA",
+      "game": "Championship Stroke",
+      "gameOfWeek": false,
+      "highlight": "Major week energy.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    },
+    {
+      "week": "Week 12",
+      "date": "Apr 15",
+      "dateISO": "2026-04-15",
+      "course": "RBC Heritage - Harbour Town GL, Hilton Head Island, SC",
+      "game": "Skins",
+      "gameOfWeek": false,
+      "highlight": "Season closeout.",
+      "results": {
+        "Wes": { "points": null, "score": null },
+        "Taylor": { "points": null, "score": null },
+        "Bo": { "points": null, "score": null },
+        "Spencer": { "points": null, "score": null }
+      }
+    }
+  ]
+}
