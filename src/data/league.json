@@ -32,10 +32,10 @@
       "gameOfWeek": false,
       "highlight": "Weekly showdown on Wednesday.",
       "results": {
-        "Wes": { "points": null, "score": null },
-        "Taylor": { "points": null, "score": null },
-        "Bo": { "points": null, "score": null },
-        "Spencer": { "points": null, "score": null }
+        "Wes": { "points": 3, "score": "-11" },
+        "Taylor": { "points": 0, "score": "-3" },
+        "Bo": { "points": 0, "score": "-3" },
+        "Spencer": { "points": 3, "score": "-11" }
       }
     },
     {
