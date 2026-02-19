@@ -47,10 +47,10 @@
       "gameOfWeek": false,
       "highlight": "Bracket week - win and advance.",
       "results": {
-        "Wes": { "points": null, "score": null },
-        "Taylor": { "points": null, "score": null },
-        "Bo": { "points": null, "score": null },
-        "Spencer": { "points": null, "score": null }
+        "Wes": { "points": 2, "score": null },
+        "Taylor": { "points": 3, "score": null },
+        "Bo": { "points": 0, "score": null },
+        "Spencer": { "points": 1, "score": null }
       }
     },
     {
